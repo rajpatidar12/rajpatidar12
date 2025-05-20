@@ -1,4 +1,4 @@
-# Intro
+
 <h1 align="center">Hi 👋, I'm Raj Patidar</h1>
 <h3 align="center">A passionate Full Stack Developer from Bhopal, Madhya Pradesh 🇮🇳</h3>
 
